@@ -216,8 +216,7 @@
       "maxlength": "16",
       "rule": "az",
       "allowed_values": {
-         "contosoweb": "Contoso Web",
-         "contosoapi": "Contoso API"
+         "devops": "DevOps"
       }
    }
 }
