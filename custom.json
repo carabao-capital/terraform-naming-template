@@ -178,7 +178,8 @@
       "allowed_values": {
          "contoso": "Contoso",
          "infosec": "Information Security",
-         "networks": "Core Networking"
+         "networks": "Core Networking",
+         "devops": "DevOps"
       }
    },
    "applicationName": {
